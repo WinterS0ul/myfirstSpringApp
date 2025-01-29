@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.winter.myfirstapp</groupId>
-	<artifactId>myfirstapp</artifactId>
+	<artifactId>MyFirstAppBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>My First App</name>
+	<name>My First App Backend</name>
 	<description>This is a demo Spring Boot app for learning purposes.</description>
 	<url/>
 	<licenses>
